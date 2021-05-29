@@ -4,6 +4,6 @@
 # Solution
 
 ## Programmers
-- [Level 1](https://github.com/jaeeun49/Programmers-Algorithm/tree/main/Level%201)
+- [Level 1](https://github.com/jaeeun49/Algorithm/tree/main/programmers/Level%201)
 - Level 2
 - Level 3 
