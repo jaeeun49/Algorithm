@@ -10,7 +10,7 @@
 
 ## baekjoon
 - [구현](https://github.com/jaeeun49/Algorithm/tree/main/baekjoon/%EA%B5%AC%ED%98%84)
-- DFS/BFS
+- [DFS/BFS](https://github.com/jaeeun49/Algorithm/tree/main/baekjoon/DFS%2CBFS)
 - 정렬
 - 이진탐색
 - 다이나믹 프로그래밍
